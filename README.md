@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @san-sayn, a Computer Engineering student.
+- 👋 Hi, I’m @ei-ssi, a Computer Engineering student.
 - 👀 I’m interested in Web Design and Animations, Video Games, and Software Development.
 - 🌱 I’m currently learning Web Development (HTML/CSS via FreeCodeCamp). I began my journey on July 26,2022.
 <!--- 💞️ I’m looking to collaborate on ...
